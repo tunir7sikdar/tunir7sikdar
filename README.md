@@ -3,6 +3,10 @@ This is Tunir.
 - 🌱 I’m currently persuing a Web Development course on Coursera.
 - 📫 How to reach me: tunir7sikdar@gmail.com
 
+Module 2 Coding Assignment
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+
 
 <!--
 **tunir7sikdar/tunir7sikdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
